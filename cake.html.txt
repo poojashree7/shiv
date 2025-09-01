@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Black Forest Cake Recipe</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #fff8f0;
+      color: #3a1e1e;
+      max-width: 600px;
+      margin: 2rem auto;
+      padding: 1rem 2rem;
+      border: 2px solid #7b1e1e;
+      border-radius: 10px;
+    }
+    h1 {
+      text-align: center;
+      color: #7b1e1e;
+    }
+    h2 {
+      color: #5c1212;
+    }
+    ul {
+      line-height: 1.6;
+    }
+    .note {
+      font-style: italic;
+      color: #a13b3b;
+      margin-top: 1rem;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Black Forest Cake Recipe</h1>
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>1 cup all-purpose flour</li>
+    <li>1 cup sugar</li>
+    <li>1/2 cup unsweetened cocoa powder</li>
+    <li>1 tsp baking powder</li>
+    <li>1/2 tsp baking soda</li>
+    <li>1/2 tsp salt</li>
+    <li>2 large eggs</li>
+    <li>1/2 cup buttermilk</li>
+    <li>1/2 cup vegetable oil</li>
+    <li>1 tsp vanilla extract</li>
+    <li>1/2 cup boiling water</li>
+    <li>1 jar (about 24 oz) sour cherries or cherry pie filling</li>
+    <li>2 cups heavy whipping cream</li>
+    <li>2 tbsp powdered sugar</li>
+    <li>Chocolate shavings (for garnish)</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Preheat oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.</li>
+    <li>In a large bowl, whisk flour, sugar, cocoa, baking powder, baking soda, and salt.</li>
+    <li>Add eggs, buttermilk, oil, and vanilla; beat on medium speed for 2 minutes.</li>
+    <li>Stir in boiling water (batter will be thin).</li>
+    <li>Pour batter evenly into prepared pans and bake 30-35 minutes or until a toothpick inserted in the center comes out clean.</li>
+    <li>Cool cakes in pans for 10 minutes, then remove from pans and cool completely on wire racks.</li>
+    <li>Whip heavy cream with powdered sugar until stiff peaks form.</li>
+    <li>Slice each cake horizontally to make 4 layers total.</li>
+    <li>Place one cake layer on a serving plate, spread with whipped cream and cherries. Repeat layers.</li>
+    <li>Frost top and sides with remaining whipped cream.</li>
+    <li>Garnish with chocolate shavings and extra cherries.</li>
+    <li>Refrigerate at least 2 hours before serving.</li>
+  </ol>
+
+  <p class="note">Enjoy your delicious homemade Black Forest Cake!</p>
+</body>
+</html>
